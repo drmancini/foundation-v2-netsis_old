@@ -89,7 +89,7 @@ config.primary.recipients.push(recipient2);
 config.primary.zmq = {};
 config.primary.zmq.enabled = false;
 config.primary.zmq.host = '127.0.0.1';
-config.primary.zmq.port = 29000;
+config.primary.zmq.port = 44003;
 
 // Export Configuration
 module.exports = config;
