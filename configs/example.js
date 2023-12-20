@@ -1,6 +1,6 @@
 /*
  *
- * Example (Dash)
+ * Example (Netsis)
  *
  */
 
@@ -57,8 +57,8 @@ config.primary.address = '[address]';
 
 // Coin Configuration
 config.primary.coin = {};
-config.primary.coin.name = 'Dash';
-config.primary.coin.symbol = 'DASH';
+config.primary.coin.name = 'Netsis';
+config.primary.coin.symbol = 'NET';
 config.primary.coin.algorithm = 'x11';
 
 // Daemon Configuration
